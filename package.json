@@ -1,0 +1,12 @@
+{
+  "name": "noctis-bikeweb",
+  "version": "1.0.0",
+  "description": "NOCTIS - Electric Architecture Scrollytelling Experience",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
